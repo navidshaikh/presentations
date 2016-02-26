@@ -1,13 +1,12 @@
 # [Atomic Developer Bundle] (https://github.com/projectatomic/adb-atomic-developer-bundle/) - Containerized Development Made Easy
 
-Event: [DEVCONF Brno 2016](http://devconf.cz/)
+Event: [Docker Pune Meetup #6](http://www.meetup.com/Docker-Pune/events/228970971/)
 
-Speakers: 
-- [Brian Exelbierd @bexelbie] (https://twitter.com/bexelbie) bex@pobox.com | bexelbie@redhat.com
+Speakers:
 - [Navid Shaikh @swordphilic] (https://twitter.com/swordphilic) nshaikh@redhat.com
 
 ## Talk Synopsis:
-The Atomic Developer bundle (ADB) is a development environment for
+Tihe Atomic Developer bundle (ADB) is a development environment for
 containers from the same people that are bringing you the Atomic
 Host. The ADB is growing to help you create containers for use with
 Docker, orchestrators like Kubernetes, PaaS platforms like OpenShift
@@ -20,10 +19,9 @@ that can leverage the capabilities and provide smooth user experience
 for containerized development. Learn how to use it, how we built it,
 and how you can make it better.
 
-## [Slides] (ADB_DevConf_2016.pdf)
+## [Slides] (Docker_Pune_Meetup_6.pdf)
 
 ## Demo
-
 - ["Command Line Carla"](carla)
 - ["IDE Igor"](igor)
 - ["My Environment Mike"](mike)
